@@ -1,0 +1,11 @@
+{
+    "prefix": "!g ", 
+    "token_coffin" : "BOT TOKEN", 
+    "token_guy1" : "BOT TOKEN", 
+    "token_guy2" : "BOT TOKEN",
+    "token_guy3" : "BOT TOKEN",
+    "SongDir": "./Songs/Astronomia.mp3",
+    "JoinTime": 16500,
+    "PlayTime": 3000,
+    "Volume": 0.50
+}
