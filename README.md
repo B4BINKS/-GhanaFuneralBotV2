@@ -1,8 +1,10 @@
 # Edit reason :
 The original one is no anymore working
+
 You must have to move the .exe in ffmpeg.rar archive
 If any error try to install discord.js@12.0.0
-I try to contact the owner if this project but :
+
+I try to contact the owner of this project but :
 
 ![image](https://user-images.githubusercontent.com/116849188/199889033-3165aa67-fe42-4af7-ac25-b2b1c1cee95d.png)
 
