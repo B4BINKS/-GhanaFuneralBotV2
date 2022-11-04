@@ -1,0 +1,27 @@
+{
+  "name": "ghanabot",
+  "version": "1.0.1",
+  "description": "Joins voice channels and all that stuff",
+  "main": "main.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.2.1",
+    "console-stamp": "^0.2.9",
+    "discord.js": "^12.2.0",
+    "nodemon": "^2.0.3",
+    "discord.js-arbitrary-ffmpeg": "1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andi-Tafilaj/GhanaFuneralBot.git"
+  },
+  "author": "Andi-Tafilaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andi-Tafilaj/GhanaFuneralBot/issues"
+  },
+  "homepage": "https://github.com/Andi-Tafilaj/GhanaFuneralBot#readme"
+}
