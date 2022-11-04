@@ -1,5 +1,5 @@
 # Edit reason :
-The original one is no anymore working
+The original one is no anymore working : https://github.com/Andi-Tafilaj/GhanaFuneralBot
 
 You must have to move the .exe in ffmpeg.rar archive
 If any error try to install discord.js@12.0.0
